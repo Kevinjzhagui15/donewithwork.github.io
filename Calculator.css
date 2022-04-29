@@ -1,0 +1,11 @@
+
+.card-body {
+    background-color: rgba(255,0,0);
+    border-radius: 25px;
+}
+
+.input-group-addon, h1, h5{
+    background: gray;
+    color: blue;
+    font-size: 20px;
+}
